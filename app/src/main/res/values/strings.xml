@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Roast Chicken Calculator</string>
+    <string name="cost_of_service">Weight (kg)?</string>
+    <string name="round_up_switch">Fan oven?</string>
+    <string name="calculate_button">CALCULATE</string>
+    <string name="tip_amount">Cooking time: %s hr</string>
+    <string name="time_mins">%s mins</string>
+    <string name="temp_amount">Temperature: %s&#176;C</string>
+    <string name="rest_amount">Resting time: %s mins</string>
+</resources>
